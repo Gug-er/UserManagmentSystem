@@ -1,0 +1,24 @@
+[2026-03-19 22:55:51] [INFO] MAIN: Application started
+[2026-03-19 22:55:51] [DEBUG] DB: Database initialized
+[2026-03-19 22:55:51] [DEBUG] Menu initialized
+[2026-03-19 22:56:03] [DEBUG] DB: list_users called
+[2026-03-19 22:56:11] [DEBUG] DB: get_hash called
+[2026-03-19 22:56:11] [DEBUG] DB: get_hash called
+[2026-03-19 22:56:11] [DEBUG] DB: check_status completed
+[2026-03-19 22:56:15] [DEBUG] DB: list_users called
+[2026-03-19 22:56:20] [DEBUG] DB: check_login called
+[2026-03-19 22:56:20] [DEBUG] DB: user USER8deleted
+[2026-03-19 22:56:20] [DEBUG] DB: list_users called
+[2026-03-19 22:56:26] [DEBUG] DB: list_users called
+[2026-03-19 22:56:33] [DEBUG] DB: check_login called
+[2026-03-19 22:56:33] [DEBUG] DB: register_user called
+[2026-03-19 22:56:33] [DEBUG] DB: User info added to db
+[2026-03-19 22:56:39] [DEBUG] DB: get_hash called
+[2026-03-19 22:56:39] [DEBUG] DB: get_hash called
+[2026-03-19 22:56:39] [DEBUG] DB: check_status completed
+[2026-03-19 22:56:43] [DEBUG] DB: list_users called
+[2026-03-19 22:56:53] [DEBUG] DB: check_login called
+[2026-03-19 22:56:53] [DEBUG] DB: Users listed
+[2026-03-19 22:56:53] [DEBUG] DB: list_users called
+[2026-03-19 22:56:58] [DEBUG] DB: list_users called
+[2026-03-19 22:57:07] [DEBUG] DB: users closed

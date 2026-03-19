@@ -1,0 +1,3 @@
+D:/Code/Projects/UserManagmentSystem/build/CMakeFiles/ums.dir
+D:/Code/Projects/UserManagmentSystem/build/CMakeFiles/edit_cache.dir
+D:/Code/Projects/UserManagmentSystem/build/CMakeFiles/rebuild_cache.dir
